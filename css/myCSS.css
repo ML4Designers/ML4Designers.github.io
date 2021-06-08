@@ -9,7 +9,7 @@ body {
 	min-height: 500px;
 }
 
-.animate-in {
+/*.animate-in {
   -webkit-animation: fadeIn .2s ease-in;
   animation: fadeIn .2s ease-in;
 }
@@ -34,7 +34,7 @@ body {
     opacity: 1;
   }
 }
-/*.LucidaFont, p, button, a {
+ .LucidaFont, p, button, a {
   font-family: "Lucida Grande";
 }*/
 
