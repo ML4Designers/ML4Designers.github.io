@@ -1,8 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
-@import url(//db.onlinewebfonts.com/c/878812403fc38d24102f0458bf6e4744?family=Lucida+Grande);
 body {
-  /*background: #979798;*/
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
 }
 
 .long-div{
@@ -35,9 +34,10 @@ body {
     opacity: 1;
   }
 }
-.LucidaFont, p, button, a {
+/*.LucidaFont, p, button, a {
   font-family: "Lucida Grande";
-}
+}*/
+
 .FuturaFont {
   font-family: "Futura";
   letter-spacing: -2px;
