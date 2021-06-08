@@ -4,6 +4,12 @@
 body {
   /*background: #979798;*/
 }
+
+.long-div{
+	padding: 20% 0;
+	min-height: 500px;
+}
+
 .animate-in {
   -webkit-animation: fadeIn .2s ease-in;
   animation: fadeIn .2s ease-in;
@@ -42,6 +48,15 @@ body {
 .logo-w {
   height: 25px;
   margin-bottom: 10px;
+}
+
+.logo-w-provvisorio{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.text-black{
+	color-text: black !important;
 }
 .nav-position {
   margin: 0 2rem;
